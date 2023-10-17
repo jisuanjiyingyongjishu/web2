@@ -1,0 +1,64 @@
+.form{
+    width: 970px;
+    height: 400px;
+    background-color: antiquewhite;
+    border-radius: 50px;
+    background: url("../img/lvse2.jpeg");
+}
+
+  
+
+.container{
+    clear: both;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    /* margin-top: 150px; */
+   text-align: center;
+    background-color: white;
+    border-radius: 10%;
+    box-shadow: 10px 20px 20px #333;
+    opacity: 0.5;
+}
+.title{
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    color: #19b5ee;
+    font-size: 20px;
+
+}
+form input{
+    margin-bottom: 10px;
+    width: 250px;
+    margin-top: 20px;
+    
+}
+
+.reg{
+    clear: both;
+    float: right;
+    padding-right: 30px;
+    float: 400px;
+}
+.btn1{
+    /* border: 2px solid red; */
+    clear: both;
+    width: 100px;
+    border-radius: 15px;
+    border: none;
+   
+}
+.btn2{
+    clear: both;
+    width: 100px;
+    border-radius: 15px;
+    border: none;
+}
+.tijiao{
+    border-radius: 20px;
+
+}
+.tijiao:hover{
+    background-color:rgb(100, 171, 103) ;
+}
